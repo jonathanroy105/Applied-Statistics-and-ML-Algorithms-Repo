@@ -1,7 +1,3 @@
-Machine Learning and Data Analysis Projects
-This repository contains various data analysis and machine learning projects that include Exploratory Data Analysis (EDA), basic statistics, and the application of machine learning algorithms on multiple datasets.
-
-
 **Basic Statistics and Machine Learning Algorithms.**
 
 This repository contains various data analysis and machine learning projects that include Exploratory Data Analysis (EDA), basic statistics, and the application of machine learning algorithms on multiple datasets.
@@ -9,7 +5,9 @@ This repository contains various data analysis and machine learning projects tha
 Table of Contents: 
 
 -> Introduction
+
 -> Project Structure
+
 -> Exploratory Data Analysis (EDA)
 -> Basic Statistics
 -> Machine Learning Algorithms
